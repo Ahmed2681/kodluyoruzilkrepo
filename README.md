@@ -22,6 +22,9 @@ cd kodluyoruzilkrepo
 code .
 ```
 
+
+## Project Photo
+
 ![Project Photo](./img/project.png)
 
 
