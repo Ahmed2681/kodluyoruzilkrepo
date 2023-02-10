@@ -22,6 +22,8 @@ cd kodluyoruzilkrepo
 code .
 ```
 
+![Project Photo](./img/project.png)
+
 
 ## Contributing
 
